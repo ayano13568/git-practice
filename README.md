@@ -1,6 +1,6 @@
 # git-practice
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
-2023”N07Œ11“ú
-rebase-practice‚ÅXV(rebaseƒRƒ“ƒtƒŠƒNƒg—p)
-rebase—p
-stash—ûK
+ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»ç·´ç¿’ç”¨ã§ã™
+2023-07-14ã«æ›´æ–°
+rebase-practiceãƒ–ãƒ©ãƒ³ãƒã§æ›´æ–°(rebaseã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆç”¨)
+rebaseâ€”pullç”¨
+stashç·´ç¿’(ãƒˆãƒ©ãƒƒã‚¯æ¸ˆã¿)
